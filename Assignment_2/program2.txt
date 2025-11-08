@@ -1,3 +1,0 @@
-CPU, 100
-SYSCALL, 4
-END_IO, 4
